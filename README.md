@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project helps you to manage and manipulate your text. It would help you to convert your text from uppercase to lowercase, from lowercase to uppercase, copy text
+to clipboard, clear text and more features are underway.
+
 ## Available Scripts
 
 In the project directory, you can run:
